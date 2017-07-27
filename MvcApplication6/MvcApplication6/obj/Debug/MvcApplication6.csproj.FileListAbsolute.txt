@@ -1,0 +1,222 @@
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\ApplicationInsights.config
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\csc.exe
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\csc.exe.config
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\csc.rsp
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\csi.exe
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\csi.rsp
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\System.AppContext.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\vbc.exe
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\vbc.exe.config
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\vbc.rsp
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\MvcApplication6.dll.config
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\MvcApplication6.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\MvcApplication6.pdb
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Antlr3.Runtime.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Newtonsoft.Json.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.Helpers.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.Mvc.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.Optimization.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.Razor.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\WebGrease.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.Helpers.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.Mvc.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.Optimization.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.Razor.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Newtonsoft.Json.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.dll
+C:\Users\daniel\Documents\Visual Studio 2017\Projects\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.pdb
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\ApplicationInsights.config
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\csc.exe
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\csc.exe.config
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\csc.rsp
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\csi.exe
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\csi.rsp
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\System.AppContext.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\vbc.exe
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\vbc.exe.config
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\vbc.rsp
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\MvcApplication6.dll.config
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\MvcApplication6.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\MvcApplication6.pdb
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Antlr3.Runtime.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Newtonsoft.Json.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.Helpers.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.Mvc.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.Optimization.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.Razor.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\WebGrease.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.Helpers.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.Mvc.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.Optimization.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.Razor.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Newtonsoft.Json.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.csprojResolveAssemblyReference.cache
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.dll
+C:\Users\river\Downloads\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.pdb
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\ApplicationInsights.config
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\csc.exe
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\csc.exe.config
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\csc.rsp
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\csi.exe
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\csi.rsp
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\System.AppContext.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\System.Collections.Immutable.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\System.IO.FileSystem.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\System.Reflection.Metadata.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\vbc.exe
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\vbc.exe.config
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\vbc.rsp
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\VBCSCompiler.exe
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\roslyn\VBCSCompiler.exe.config
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\MvcApplication6.dll.config
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\MvcApplication6.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\MvcApplication6.pdb
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Antlr3.Runtime.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.DependencyCollector.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.Web.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.WindowsServer.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.ApplicationInsights.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.Web.Infrastructure.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Newtonsoft.Json.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.Helpers.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.Mvc.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.Optimization.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.Razor.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Deployment.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Razor.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\WebGrease.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.Helpers.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.Mvc.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.Optimization.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.Razor.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Deployment.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\System.Web.WebPages.Razor.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Antlr3.Runtime.pdb
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Newtonsoft.Json.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.ApplicationInsights.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.DependencyCollector.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.WindowsServer.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\Microsoft.AI.Web.xml
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.csprojResolveAssemblyReference.cache
+D:\mvc上課\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.dll
+D:\mvc上課\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.pdb
