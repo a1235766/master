@@ -15,7 +15,7 @@ namespace MvcApplication6.Models
 
         [Remote("CheckUserName", "Validate", ErrorMessage = "驗證失敗,帳號不可包含以下字串 skilltree demo twMVC")]
         [Display(Name = "帳號")]
-        [Required(ErrorMessage = "請輸入帳號")]
+        [Required(ErrorMessage = "請輸入您的帳號")]
         public string userName { get; set; }
 
 
@@ -27,7 +27,7 @@ namespace MvcApplication6.Models
         public string 密碼 { get; set; }
 
         [DisplayName("密碼")]
-        [Required(ErrorMessage = "請輸入密碼")]
+        [Required(ErrorMessage = "請輸入您的密碼")]
         [MaxLength(20, ErrorMessage = "密碼最多20個字")]
         [MinLength(4, ErrorMessage = "密碼最少4個字")]
         [DataType(DataType.Password)]
